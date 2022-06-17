@@ -90,7 +90,7 @@ header nav {
     float: right;
 }
 header nav ul li {
-    float: left;
+    
     display: inline-block;
     margin-top: 50px;
 }
@@ -680,10 +680,10 @@ textarea.input100 {
     opacity: 1;
   }
   /****************************************/
-
+}
 .map{
 	text-align:right;
 		  
-		    
+}	    
 		  
 
